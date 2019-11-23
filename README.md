@@ -33,4 +33,4 @@ larger which allowed me to pick up items with ease. This meant that I had to dar
 for the larger trash items.
 
 ## Demo ##
-[Link] (https://github.com/vanderbilt-virtual-reality/individual-project-gvedant/blob/master/demo.mp4)
+[Link](https://github.com/vanderbilt-virtual-reality/individual-project-gvedant/blob/master/demo.mp4)
